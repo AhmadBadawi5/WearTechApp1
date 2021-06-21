@@ -1,0 +1,24 @@
+PODS:
+  - GradientProgressBar (2.0.3):
+    - LightweightObservable (~> 2.0)
+  - LightweightObservable (2.1.2)
+  - LinearProgressView (2.0.1)
+
+DEPENDENCIES:
+  - GradientProgressBar
+  - LinearProgressView
+
+SPEC REPOS:
+  trunk:
+    - GradientProgressBar
+    - LightweightObservable
+    - LinearProgressView
+
+SPEC CHECKSUMS:
+  GradientProgressBar: f11fb57cffc615a4794da558ce283171a992130a
+  LightweightObservable: c5ac85423a5edbed9a920b4d5c7b8f94ab3688c4
+  LinearProgressView: 353d4d45dc599b83cc4b43f14e6c0336aa6f3834
+
+PODFILE CHECKSUM: d9a2cadef9fead471fb284d2bc9c9b68f844b919
+
+COCOAPODS: 1.10.1
